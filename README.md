@@ -1,5 +1,5 @@
 # my-first-repo
 <br>
-tic tac toe game 
+Tic Tac Toe Game --✖️/⭕--
 <br>
-Made using Html, CSS and Js
+Made using Html, CSS and JavaScript 
