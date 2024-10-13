@@ -1,4 +1,4 @@
-# my-first-repo
+# My-First-Repo
 <br>
 Tic Tac Toe Game --✖️/⭕--
 <br>
